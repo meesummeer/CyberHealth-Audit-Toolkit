@@ -59,7 +59,7 @@ Contributors:
 
 ## 💬 Feedback / Contributions
 
-Open to suggestions, contributions, and feedback. Submit a pull request or contact [cyberhealth-projects@gmail.com](mailto:cyberhealth-projects@gmail.com)
+Open to suggestions, contributions, and feedback. Submit a pull request or contact [contact@cyberhealth-solutions.com](mailto:contact@cyberhealth-solutions.com)
 
 ---
 
