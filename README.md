@@ -22,8 +22,8 @@ Built specifically for small to mid-sized clinics, startups, and independent pra
 | ✅ **HIPAA Security Risk Assessment Toolkit** | A full Excel tool to identify, evaluate, and treat security risks to PHI (Protected Health Information). Includes scoring matrix and action planning. |
 | 💻 **Device Access Policy Template** | A complete editable policy for managing authorized access to desktops, laptops, mobile devices, and medical systems. |
 | 🤝 **Vendor Risk Management Checklist** | A due-diligence checklist to evaluate third-party vendors for security, HIPAA compliance, and contract safety. |
-| 🚨 **Incident Response Plan Template** | (Coming Soon) A structured template for preparing, detecting, and responding to security incidents in a healthcare setting. |
-| 🔐 **Password Policy & Data Breach Plan** | (Coming Soon) Templates to enforce strong password management and a step-by-step response guide in case of a data breach. |
+| 🚨 **Incident Response Plan Template** | A structured template for preparing, detecting, and responding to security incidents in a healthcare setting. |
+| 🔐 **Password Policy & Data Breach Plan** | Templates to enforce strong password management and a step-by-step response guide in case of a data breach. |
 
 ---
 
